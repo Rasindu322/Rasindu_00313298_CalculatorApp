@@ -1,0 +1,10 @@
+C:\Users\Rasindu Nethmina\source\repos\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Users\Rasindu Nethmina\source\repos\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\Rasindu Nethmina\source\repos\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\Rasindu Nethmina\source\repos\CalculatorApp\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+C:\Users\Rasindu Nethmina\source\repos\CalculatorApp\obj\Debug\CalculatorApp.Form1.resources
+C:\Users\Rasindu Nethmina\source\repos\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\Users\Rasindu Nethmina\source\repos\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+C:\Users\Rasindu Nethmina\source\repos\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Rasindu Nethmina\source\repos\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Users\Rasindu Nethmina\source\repos\CalculatorApp\obj\Debug\CalculatorApp.pdb
